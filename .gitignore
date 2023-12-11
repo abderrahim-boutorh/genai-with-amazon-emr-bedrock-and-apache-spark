@@ -1,3 +1,6 @@
+# Local .vscode direrctories
+**/.vscode/*
+
 # Local .terraform directories
 **/.terraform/*
 
@@ -32,3 +35,9 @@ override.tf.json
 # Ignore CLI configuration files
 .terraformrc
 terraform.rc
+
+# Ignore terraform plan
+.tfplan
+
+# Ignore provider version records file
+.terraform.lock.hcl
