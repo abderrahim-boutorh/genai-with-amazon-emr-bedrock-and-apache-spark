@@ -7,7 +7,7 @@ The [pyspark-ai](https://github.com/pyspark-ai/pyspark-ai) library serves as an 
 
 The goal of this guide is to provide you with the instructions for implementing the infrastructure needed to successfully deploy and run data analytics jobs on a Jupyter notebook within an EMR cluster.
 
-This tutorial is derived from this [blog]() post. Follow the blog to complete the tutorial.
+This tutorial is derived from this [blog](https://www.linkedin.com/pulse/use-generative-ai-amazon-emr-bedrock-english-sdk-apache-boutorh-dmbce) post. Follow the blog to complete the tutorial.
 
 
 ## Prerequisites
